@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- android/app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Lock Widget</string>
+    <string name="widget_description">Tap to lock your screen instantly.</string>
+</resources>
